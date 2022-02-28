@@ -1,4 +1,4 @@
----
+---bolts
 title: About permissions for GitHub Packages
 intro: Learn about how to manage permissions for your packages.
 product: '{% data reusables.gated-features.packages %}'
